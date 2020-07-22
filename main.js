@@ -23,20 +23,20 @@
 
 // console.log(quoteFinder('is'))
 
-const employee = {
-  firstName: 'Joseph',
-  lastName: 'Martin',
-  role: 'student',
-  accountNumber: '1-23456789',
-  isManager: false,
-  titles: ['Jr.Developer', 'Good Dude'],
-  accolade: {
-      title: 'Employee of the Year',
-      dateEarned: '1/2/2020',
-      expires: '12/21/2020',
-      isCool: true
-  }
-}
+// const employee = {
+//   firstName: 'Joseph',
+//   lastName: 'Martin',
+//   role: 'student',
+//   accountNumber: '1-23456789',
+//   isManager: false,
+//   titles: ['Jr.Developer', 'Good Dude'],
+//   accolade: {
+//       title: 'Employee of the Year',
+//       dateEarned: '1/2/2020',
+//       expires: '12/21/2020',
+//       isCool: true
+//   }
+// }
 
 // console.log(employee.firstName)
 // const keyToCheck = 'accolade';
